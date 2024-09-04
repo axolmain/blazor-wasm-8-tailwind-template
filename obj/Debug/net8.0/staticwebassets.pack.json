@@ -1,0 +1,53 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/homeserver/SDMDigital/BlazorTailwindTemplate/BlazorTailwindTemplate/bin/Debug/net8.0/wwwroot/_framework/blazor.webassembly.js",
+      "PackagePath": "staticwebassets/_framework/blazor.webassembly.js"
+    },
+    {
+      "Id": "/Users/homeserver/SDMDigital/BlazorTailwindTemplate/BlazorTailwindTemplate/obj/Debug/net8.0/compressed/2mrfrno4c2.gz",
+      "PackagePath": "staticwebassets/_framework/blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "/Users/homeserver/SDMDigital/BlazorTailwindTemplate/BlazorTailwindTemplate/wwwroot/css/app.css",
+      "PackagePath": "staticwebassets/css/app.css"
+    },
+    {
+      "Id": "/Users/homeserver/SDMDigital/BlazorTailwindTemplate/BlazorTailwindTemplate/wwwroot/css/app.min.css",
+      "PackagePath": "staticwebassets/css/app.min.css"
+    },
+    {
+      "Id": "/Users/homeserver/SDMDigital/BlazorTailwindTemplate/BlazorTailwindTemplate/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "/Users/homeserver/SDMDigital/BlazorTailwindTemplate/BlazorTailwindTemplate/wwwroot/icon-192.png",
+      "PackagePath": "staticwebassets/icon-192.png"
+    },
+    {
+      "Id": "/Users/homeserver/SDMDigital/BlazorTailwindTemplate/BlazorTailwindTemplate/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "/Users/homeserver/SDMDigital/BlazorTailwindTemplate/BlazorTailwindTemplate/wwwroot/sample-data/weather.json",
+      "PackagePath": "staticwebassets/sample-data/weather.json"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.BlazorTailwindTemplate.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.BlazorTailwindTemplate.props",
+      "PackagePath": "build\\BlazorTailwindTemplate.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.BlazorTailwindTemplate.props",
+      "PackagePath": "buildMultiTargeting\\BlazorTailwindTemplate.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.BlazorTailwindTemplate.props",
+      "PackagePath": "buildTransitive\\BlazorTailwindTemplate.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
